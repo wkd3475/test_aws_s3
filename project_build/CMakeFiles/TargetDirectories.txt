@@ -1,0 +1,3 @@
+/home/wuiing/workspace/aws_test/project_build/CMakeFiles/rebuild_cache.dir
+/home/wuiing/workspace/aws_test/project_build/CMakeFiles/list_buckets.dir
+/home/wuiing/workspace/aws_test/project_build/CMakeFiles/edit_cache.dir
